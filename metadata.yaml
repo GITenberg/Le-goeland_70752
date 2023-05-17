@@ -1,0 +1,31 @@
+_repo: Le-goeland_70752
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Balde, Jean
+    alias: Alleman, Jeanne
+    birthdate: 1885
+    deathdate: 1938
+    gutenberg_agent_id: '54805'
+    url: http://www.gutenberg.org/2009/agents/54805
+    wikipedia: https://fr.wikipedia.org/wiki/Jean_Balde
+description: ''
+gutenberg_issued: '2023-05-13'
+identifiers:
+  gutenberg: '70752'
+language: fr
+pgterms:marc904: https://books.google.fr/books?id=OUONGecE6SwC
+pgterms:marc905: 20221218113714balde
+pgterms:marc906: '1926'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from scanned images of public domain material from the Google
+  Books project.)
+publication_note: '  $aFrance :$bPlon, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Le goéland
+url: http://www.gutenberg.org/ebooks/70752
