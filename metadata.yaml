@@ -1,5 +1,8 @@
 _repo: Le-goeland_70752
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70752-h/images/cover.jpg
 creator:
   author:
     agent_name: Balde, Jean
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/54805
     wikipedia: https://fr.wikipedia.org/wiki/Jean_Balde
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70752#Le-goeland
 gutenberg_issued: '2023-05-13'
 identifiers:
   gutenberg: '70752'
